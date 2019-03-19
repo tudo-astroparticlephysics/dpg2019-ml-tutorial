@@ -15,3 +15,5 @@ dependencies:
   - scipy=1.2
   - seaborn=0.9
   - xlrd>=1
+  - ipywidgets
+  - jupyter_contrib_nbextensions
