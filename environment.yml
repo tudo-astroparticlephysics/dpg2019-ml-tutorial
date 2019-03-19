@@ -1,0 +1,16 @@
+name: dpg
+
+channels:
+  - defaults
+
+dependencies:
+  - python=3.7
+  - graphviz=2.40
+  - matplotlib=3
+  - notebook=5.7
+  - numpy=1.16
+  - pandas=0.24
+  - pydotplus=2
+  - scikit-learn=0.20
+  - scipy=1.2
+  - seaborn=0.9
