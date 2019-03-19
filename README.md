@@ -6,3 +6,20 @@ A 3-hour Tutorial on Machine Learning, to be given at the DPG Spring Meeting 201
 ## Using mybinder
 
 Just click on the binder badge above, and start.
+
+
+## Locally
+
+We need `python >= 3.6`, if you do not have it installed already, use anaconda.
+Download from here: https://anaconda.com/downloads
+
+Clone the repository using `git clone https://github.com/tudo-astroparticlephysics/dpg2019-ml-tutorial`, 
+and run
+
+```
+$ cd dpg2019-ml-tutorial
+$ conda env create -n dpg -f environment.yml
+$ conda activate dpg
+$ jupyter notebook
+```
+
