@@ -17,3 +17,4 @@ dependencies:
   - seaborn=0.9
   - xlrd>=1
   - ipywidgets
+  - pytables=3.5
